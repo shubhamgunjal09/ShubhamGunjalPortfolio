@@ -1,1 +1,1 @@
-this is my portfolio
+This website represents the web portfolio which strongly represents my details.
