@@ -1,1 +1,1 @@
-This website represents the web portfolio which strongly represents my details.
+This website represents the web portfolio which strongly represents my details. 
